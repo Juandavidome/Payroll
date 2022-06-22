@@ -1,0 +1,17 @@
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\bin\Debug\net6.0\PAYROLL.exe
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\bin\Debug\net6.0\PAYROLL.deps.json
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\bin\Debug\net6.0\PAYROLL.runtimeconfig.json
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\bin\Debug\net6.0\PAYROLL.dll
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\bin\Debug\net6.0\PAYROLL.pdb
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\PAYROLL.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\PAYROLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\PAYROLL.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\PAYROLL.AssemblyInfo.cs
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\PAYROLL.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\PAYROLL.csproj.CopyComplete
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\PAYROLL.dll
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\refint\PAYROLL.dll
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\PAYROLL.pdb
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\PAYROLL.genruntimeconfig.cache
+C:\Users\Sena\source\repos\Visual Studio\PAYROLL\obj\Debug\net6.0\ref\PAYROLL.dll
